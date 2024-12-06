@@ -1,0 +1,189 @@
+/* 
+  Localizable.strings
+  Care4Senior
+
+  Created by Aneesha on 19/02/24.
+  
+*/
+
+
+/* Class = "UILabel"; text = "Quiz Points"; ObjectID = "0oX-sO-RC9"; */
+"0oX-sO-RC9.text" = "测验点数";
+
+/* Class = "UILabel"; text = "min"; ObjectID = "0zk-oW-n1k"; */
+"0zk-oW-n1k.text" = "min";
+
+/* Class = "UILabel"; text = "Skip"; ObjectID = "2na-ts-C3z"; */
+"2na-ts-C3z.text" = "跳过";
+
+/* Class = "UILabel"; text = "Week"; ObjectID = "32X-PP-0TC"; */
+"32X-PP-0TC.text" = "星期";
+
+/* Class = "UILabel"; text = "12"; ObjectID = "56M-zZ-Pe6"; */
+"56M-zZ-Pe6.text" = "12";
+
+/* Class = "UILabel"; text = "Activity goals"; ObjectID = "5FT-T0-uIV"; */
+"5FT-T0-uIV.text" = "活动目标";
+
+/* Class = "UILabel"; text = "288.4"; ObjectID = "5Ig-49-XtZ"; */
+"5Ig-49-XtZ.text" = "288.4";
+
+/* Class = "UILabel"; text = "cal"; ObjectID = "6fK-Uj-cCV"; */
+"6fK-Uj-cCV.text" = "cal";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "6gQ-Id-MR3"; */
+"6gQ-Id-MR3.text" = "距离";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "6sx-O0-dVf"; */
+"6sx-O0-dVf.text" = "轮廓";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "6vO-5J-PDf"; */
+"6vO-5J-PDf.text" = "20";
+
+/* Class = "UILabel"; text = "My activity"; ObjectID = "7tM-0O-uBO"; */
+"7tM-0O-uBO.text" = "我的活动";
+
+/* Class = "UILabel"; text = "Goal"; ObjectID = "9aa-kx-dso"; */
+"9aa-kx-dso.text" = "目标";
+
+/* Class = "UILabel"; text = "3,255"; ObjectID = "AAW-ix-KoI"; */
+"AAW-ix-KoI.text" = "3,255";
+
+/* Class = "UILabel"; text = "Steps"; ObjectID = "B61-zf-dyE"; */
+"B61-zf-dyE.text" = "脚步";
+
+/* Class = "UILabel"; text = "Physical Activity"; ObjectID = "C43-hP-TDt"; */
+"C43-hP-TDt.text" = "Physical Activity";
+
+/* Class = "UILabel"; text = "Day"; ObjectID = "CGB-e6-EJa"; */
+"CGB-e6-EJa.text" = "天";
+
+/* Class = "UILabel"; text = "07-May-2024"; ObjectID = "CtU-pN-JwT"; */
+"CtU-pN-JwT.text" = "07-May-2024";
+
+/* Class = "UILabel"; text = "4.903 Km"; ObjectID = "DaX-MD-aNU"; */
+"DaX-MD-aNU.text" = "4.903 Km";
+
+/* Class = "UILabel"; text = "Video Points"; ObjectID = "Dtb-oa-xCD"; */
+"Dtb-oa-xCD.text" = "视频点";
+
+/* Class = "UILabel"; text = "Action Time"; ObjectID = "E2j-R0-0lz"; */
+"E2j-R0-0lz.text" = "行动时间";
+
+/* Class = "UILabel"; text = "Month"; ObjectID = "EYE-g5-rfk"; */
+"EYE-g5-rfk.text" = "月";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "Ehg-oZ-FZo"; */
+"Ehg-oZ-FZo.text" = "轮廓";
+"MemoryGames" = "记忆力训练和游戏";
+"Statistics" = "统计数据";
+/* Class = "UILabel"; text = "A"; ObjectID = "FAV-f4-b9C"; */
+"FAV-f4-b9C.text" = "A";
+
+/* Class = "UILabel"; text = "Video Points"; ObjectID = "Fsv-fA-ezh"; */
+"Fsv-fA-ezh.text" = "Video Points";
+
+/* Class = "UILabel"; text = "TUE 30 JAN"; ObjectID = "Gmg-8d-JJI"; */
+"Gmg-8d-JJI.text" = "TUE 30 JAN";
+
+/* Class = "UILabel"; text = "Choose your language"; ObjectID = "ImM-dW-Yc3"; */
+"ImM-dW-Yc3.text" = "选择你的语言";
+
+/* Class = "UIButton"; configuration.title = "Update"; ObjectID = "IqC-XL-J9z"; */
+"bec-30-7aA.text" = "更新";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "IqC-XL-J9z"; */
+"IqC-XL-J9z.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "67%"; ObjectID = "Mj6-qh-YW6"; */
+"Mj6-qh-YW6.text" = "67%";
+
+/* Class = "UILabel"; text = "Last 7 days"; ObjectID = "P1T-9L-07s"; */
+"P1T-9L-07s.text" = "过去 7 天";
+
+/* Class = "UILabel"; text = "Health Library"; ObjectID = "R2P-VU-ykb"; */
+"R2P-VU-ykb.text" = "健康图书馆";
+
+"Daily Care" = "日常护理";
+"Exercise" = "锻炼";
+"Quizz" = "测验";
+/* Class = "UILabel"; text = "Game Points"; ObjectID = "RmV-Y4-Ypc"; */
+"RmV-Y4-Ypc.text" = "游戏点数";
+"Goal" = "目标";
+"Number" = "数字";
+/* Class = "UILabel"; text = "20"; ObjectID = "UEG-PH-dFY"; */
+"UEG-PH-dFY.text" = "20";
+"DIn-xE-CDH.text" = "今日阅读";
+"Blood_Pressure" = "血压";
+"Date_Time" = "约会时间";
+"Systolic" = "收缩压";
+"Diastolic" = "舒张压";
+"Blood_Glucose_Level" = "血糖水平";
+"Save" = "节省";
+/* Class = "UILabel"; text = "Today"; ObjectID = "UcF-qd-1Cl"; */
+"UcF-qd-1Cl.text" = "今天";
+
+/* Class = "UILabel"; text = "km"; ObjectID = "UiL-QH-Daq"; */
+"UiL-QH-Daq.text" = "km";
+
+/* Class = "UILabel"; text = "Hi, Cat"; ObjectID = "W2K-Jd-QGR"; */
+"W2K-Jd-QGR.text" = "嗨，猫";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "Xfw-vj-O1a"; */
+"Xfw-vj-O1a.text" = "English";
+
+/* Class = "UITextField"; text = "2024"; ObjectID = "Zkm-80-HPf"; */
+"Zkm-80-HPf.text" = "2024";
+
+/* Class = "UILabel"; text = "Activity"; ObjectID = "arp-69-DTd"; */
+"arp-69-DTd.text" = "活动";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eAP-5W-LJJ"; */
+"eAP-5W-LJJ.text" = "Label";
+
+/* Class = "UILabel"; text = "Get Started"; ObjectID = "fCb-AC-dXL"; */
+"fCb-AC-dXL.text" = "开始使用";
+
+/* Class = "UILabel"; text = "Your Progress"; ObjectID = "ggE-19-r3g"; */
+"ggE-19-r3g.text" = "Your Progress";
+
+/* Class = "UILabel"; text = "Mandarin"; ObjectID = "i50-4m-9cX"; */
+"i50-4m-9cX.text" = "Mandarin";
+
+/* Class = "UILabel"; text = "My progress"; ObjectID = "jBm-NZ-M1v"; */
+"jBm-NZ-M1v.text" = "我的进步";
+
+/* Class = "UILabel"; text = "10,000 steps"; ObjectID = "jsY-Im-0LG"; */
+"jsY-Im-0LG.text" = "10,000 steps";
+
+/* Class = "UILabel"; text = "Quiz Points"; ObjectID = "lU2-aa-HRx"; */
+"lU2-aa-HRx.text" = "Quiz Points";
+
+/* Class = "UILabel"; text = "Games Points"; ObjectID = "meB-qG-wO1"; */
+"meB-qG-wO1.text" = "Games Points";
+
+/* Class = "UILabel"; text = "Engery Expanded for this Day"; ObjectID = "nfK-Nc-4zt"; */
+"nfK-Nc-4zt.text" = "为这一天能量扩张";
+
+/* Class = "UILabel"; text = "Progress"; ObjectID = "q92-cH-9Vp"; */
+"q92-cH-9Vp.text" = "进步";
+
+/* Class = "UILabel"; text = "M"; ObjectID = "seO-en-mQC"; */
+"seO-en-mQC.text" = "M";
+
+/* Class = "UILabel"; text = "Calories"; ObjectID = "wcz-Pn-nVC"; */
+"wcz-Pn-nVC.text" = "卡路里";
+
+/* Class = "UILabel"; text = "48h 0m HH:mm"; ObjectID = "yJm-Df-Fdc"; */
+"yJm-Df-Fdc.text" = "48h 0m HH:mm";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "ynS-0M-xjV"; */
+"ynS-0M-xjV.text" = "20";
+
+/* Class = "UITextField"; text = "Feb"; ObjectID = "z3r-aH-Iai"; */
+"z3r-aH-Iai.text" = "Feb";
+
+"Heart_Points" = "心脏点数";
+"Energy_Expanded" = "能量扩展";
+"Move_minutes" = "移动分钟数";
+"Cycling" = "骑自行车";

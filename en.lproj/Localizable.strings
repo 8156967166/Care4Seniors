@@ -1,0 +1,189 @@
+/* 
+  Localizable.strings
+  Care4Senior
+
+  Created by Aneesha on 19/02/24.
+  
+*/
+
+
+/* Class = "UILabel"; text = "Quiz Points"; ObjectID = "0oX-sO-RC9"; */
+"0oX-sO-RC9.text" = "Quiz Points";
+
+/* Class = "UILabel"; text = "min"; ObjectID = "0zk-oW-n1k"; */
+"0zk-oW-n1k.text" = "min";
+
+/* Class = "UILabel"; text = "Skip"; ObjectID = "2na-ts-C3z"; */
+"2na-ts-C3z.text" = "Skip";
+
+/* Class = "UILabel"; text = "Week"; ObjectID = "32X-PP-0TC"; */
+"32X-PP-0TC.text" = "Week";
+"MemoryGames" = "Memory training & games";
+"Statistics" = "Statistics";
+/* Class = "UILabel"; text = "12"; ObjectID = "56M-zZ-Pe6"; */
+"56M-zZ-Pe6.text" = "12";
+
+/* Class = "UILabel"; text = "Activity goals"; ObjectID = "5FT-T0-uIV"; */
+"5FT-T0-uIV.text" = "Activity goals";
+
+/* Class = "UILabel"; text = "288.4"; ObjectID = "5Ig-49-XtZ"; */
+"5Ig-49-XtZ.text" = "288.4";
+
+/* Class = "UILabel"; text = "cal"; ObjectID = "6fK-Uj-cCV"; */
+"6fK-Uj-cCV.text" = "cal";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "6gQ-Id-MR3"; */
+"6gQ-Id-MR3.text" = "Distance";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "6sx-O0-dVf"; */
+"6sx-O0-dVf.text" = "Profile";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "6vO-5J-PDf"; */
+"6vO-5J-PDf.text" = "20";
+
+/* Class = "UILabel"; text = "My activity"; ObjectID = "7tM-0O-uBO"; */
+"7tM-0O-uBO.text" = "My activity";
+
+/* Class = "UILabel"; text = "Goal"; ObjectID = "9aa-kx-dso"; */
+"9aa-kx-dso.text" = "Goal";
+
+/* Class = "UILabel"; text = "3,255"; ObjectID = "AAW-ix-KoI"; */
+"AAW-ix-KoI.text" = "3,255";
+
+/* Class = "UILabel"; text = "Steps"; ObjectID = "B61-zf-dyE"; */
+"B61-zf-dyE.text" = "Steps";
+
+/* Class = "UILabel"; text = "Physical Activity"; ObjectID = "C43-hP-TDt"; */
+"C43-hP-TDt.text" = "Physical Activity";
+
+/* Class = "UILabel"; text = "Day"; ObjectID = "CGB-e6-EJa"; */
+"CGB-e6-EJa.text" = "Day";
+
+/* Class = "UILabel"; text = "07-May-2024"; ObjectID = "CtU-pN-JwT"; */
+"CtU-pN-JwT.text" = "07-May-2024";
+
+/* Class = "UILabel"; text = "4.903 Km"; ObjectID = "DaX-MD-aNU"; */
+"DaX-MD-aNU.text" = "4.903 Km";
+
+/* Class = "UILabel"; text = "Video Points"; ObjectID = "Dtb-oa-xCD"; */
+"Dtb-oa-xCD.text" = "Video Points";
+
+/* Class = "UILabel"; text = "Action Time"; ObjectID = "E2j-R0-0lz"; */
+"E2j-R0-0lz.text" = "Action Time";
+
+/* Class = "UILabel"; text = "Month"; ObjectID = "EYE-g5-rfk"; */
+"EYE-g5-rfk.text" = "Month";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "Ehg-oZ-FZo"; */
+"Ehg-oZ-FZo.text" = "Profile";
+
+/* Class = "UILabel"; text = "A"; ObjectID = "FAV-f4-b9C"; */
+"FAV-f4-b9C.text" = "A";
+
+/* Class = "UILabel"; text = "Video Points"; ObjectID = "Fsv-fA-ezh"; */
+"Fsv-fA-ezh.text" = "Video Points";
+
+/* Class = "UILabel"; text = "TUE 30 JAN"; ObjectID = "Gmg-8d-JJI"; */
+"Gmg-8d-JJI.text" = "TUE 30 JAN";
+
+/* Class = "UILabel"; text = "Choose your language"; ObjectID = "ImM-dW-Yc3"; */
+"ImM-dW-Yc3.text" = "Choose your language";
+
+/* Class = "UIButton"; configuration.title = "Update"; ObjectID = "IqC-XL-J9z"; */
+"bec-30-7aA.text" = "Update";
+"Goal" = "Goal";
+"Number" = "Number";
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "IqC-XL-J9z"; */
+"IqC-XL-J9z.normalTitle" = "Button";
+"DIn-xE-CDH.text" = "Reading Today";
+"Blood_Pressure" = "Blood Pressure";
+"Date_Time" = "Date Time";
+"Systolic" = "Systolic";
+"Diastolic" = "Diastolic";
+"Blood_Glucose_Level" = "Blood Glucose Level";
+"Save" = "Save";
+/* Class = "UILabel"; text = "67%"; ObjectID = "Mj6-qh-YW6"; */
+"Mj6-qh-YW6.text" = "67%";
+
+/* Class = "UILabel"; text = "Last 7 days"; ObjectID = "P1T-9L-07s"; */
+"P1T-9L-07s.text" = "Last 7 days";
+
+/* Class = "UILabel"; text = "Health Library"; ObjectID = "R2P-VU-ykb"; */
+"R2P-VU-ykb.text" = "Health Library";
+
+"Daily Care" = "Daily Care";
+"Exercise" = "Exercise";
+"Quizz" = "Quizz";
+/* Class = "UILabel"; text = "Game Points"; ObjectID = "RmV-Y4-Ypc"; */
+"RmV-Y4-Ypc.text" = "Game Points";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "UEG-PH-dFY"; */
+"UEG-PH-dFY.text" = "20";
+
+/* Class = "UILabel"; text = "Today"; ObjectID = "UcF-qd-1Cl"; */
+"UcF-qd-1Cl.text" = "Today";
+
+/* Class = "UILabel"; text = "km"; ObjectID = "UiL-QH-Daq"; */
+"UiL-QH-Daq.text" = "km";
+
+/* Class = "UILabel"; text = "Hi, Cat"; ObjectID = "W2K-Jd-QGR"; */
+"W2K-Jd-QGR.text" = "Hi, Cat";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "Xfw-vj-O1a"; */
+"Xfw-vj-O1a.text" = "English";
+
+/* Class = "UITextField"; text = "2024"; ObjectID = "Zkm-80-HPf"; */
+"Zkm-80-HPf.text" = "2024";
+
+/* Class = "UILabel"; text = "Activity"; ObjectID = "arp-69-DTd"; */
+"arp-69-DTd.text" = "Activity";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eAP-5W-LJJ"; */
+"eAP-5W-LJJ.text" = "Label";
+
+/* Class = "UILabel"; text = "Get Started"; ObjectID = "fCb-AC-dXL"; */
+"fCb-AC-dXL.text" = "Get Started";
+
+/* Class = "UILabel"; text = "Your Progress"; ObjectID = "ggE-19-r3g"; */
+"ggE-19-r3g.text" = "Your Progress";
+
+/* Class = "UILabel"; text = "Mandarin"; ObjectID = "i50-4m-9cX"; */
+"i50-4m-9cX.text" = "Mandarin";
+
+/* Class = "UILabel"; text = "My progress"; ObjectID = "jBm-NZ-M1v"; */
+"jBm-NZ-M1v.text" = "My progress";
+
+/* Class = "UILabel"; text = "10,000 steps"; ObjectID = "jsY-Im-0LG"; */
+"jsY-Im-0LG.text" = "10,000 steps";
+
+/* Class = "UILabel"; text = "Quiz Points"; ObjectID = "lU2-aa-HRx"; */
+"lU2-aa-HRx.text" = "Quiz Points";
+
+/* Class = "UILabel"; text = "Games Points"; ObjectID = "meB-qG-wO1"; */
+"meB-qG-wO1.text" = "Games Points";
+
+/* Class = "UILabel"; text = "Engery Expanded for this Day"; ObjectID = "nfK-Nc-4zt"; */
+"nfK-Nc-4zt.text" = "Engery Expanded for this Day";
+
+/* Class = "UILabel"; text = "Progress"; ObjectID = "q92-cH-9Vp"; */
+"q92-cH-9Vp.text" = "Progress";
+
+/* Class = "UILabel"; text = "M"; ObjectID = "seO-en-mQC"; */
+"seO-en-mQC.text" = "M";
+
+/* Class = "UILabel"; text = "Calories"; ObjectID = "wcz-Pn-nVC"; */
+"wcz-Pn-nVC.text" = "Calories";
+
+/* Class = "UILabel"; text = "48h 0m HH:mm"; ObjectID = "yJm-Df-Fdc"; */
+"yJm-Df-Fdc.text" = "48h 0m HH:mm";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "ynS-0M-xjV"; */
+"ynS-0M-xjV.text" = "20";
+
+/* Class = "UITextField"; text = "Feb"; ObjectID = "z3r-aH-Iai"; */
+"z3r-aH-Iai.text" = "Feb";
+
+"Heart_Points" = "Heart Points";
+"Energy_Expanded" = "Energy Expanded";
+"Move_minutes" = "Move minutes";
+"Cycling" = "Cycling";
